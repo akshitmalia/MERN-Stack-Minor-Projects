@@ -1,0 +1,21 @@
+        button{
+            padding: 10px;
+            font-size: large;
+            cursor: pointer;
+            border-radius: 10px;
+            background-color: rgb(231, 231, 133);
+        }
+        .container{
+            text-align: center;
+            background-color: #a0c457;
+            margin: 50px;
+            padding: 50px;
+            border-radius: 20px;
+        }
+        img{
+            width: 300px;
+            text-align: center;
+        }
+        .error{
+            text-align: center;
+        }
