@@ -38,7 +38,10 @@ A simple web application that fetches and displays random dog images using the D
 
 ## 📸 Screenshots
 
-*(Add screenshot showing a dog image after clicking button)*
+<img width="1919" height="869" alt="image" src="https://github.com/user-attachments/assets/3b37879e-730b-463f-9326-0759f5a68f53" />
+<img width="1916" height="967" alt="image" src="https://github.com/user-attachments/assets/a0e96dbc-1026-4af8-b74b-04e9512a40dd" />
+<img width="1918" height="961" alt="image" src="https://github.com/user-attachments/assets/edb0e0e8-5646-43f8-92f1-f3b3d02c3301" />
+
 
 ---
 
