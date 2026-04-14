@@ -1,5 +1,8 @@
 # 📊 Quiz App (API-Based)
 
+![GitHub stars](https://img.shields.io/github/stars/akshitmalia/quiz-app?style=social)
+![GitHub forks](https://img.shields.io/github/forks/akshitmalia/quiz-app?style=social)
+
 🌐 Live Demo: https://quiz-app-akshit.netlify.app/
 
 An interactive quiz web application that fetches questions from an external API, allows users to attempt quizzes, and provides a detailed result summary with correct answers.
