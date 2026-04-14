@@ -1,7 +1,9 @@
 # 📊 Quiz App (API-Based)
 
-![GitHub stars](https://img.shields.io/github/stars/akshitmalia/quiz-app?style=social)
-![GitHub forks](https://img.shields.io/github/forks/akshitmalia/quiz-app?style=social)
+![Stars](https://img.shields.io/github/stars/akshitmalia/MERN-Stack-Minor-Projects?style=flat)
+![Forks](https://img.shields.io/github/forks/akshitmalia/MERN-Stack-Minor-Projects?style=flat)
+![Issues](https://img.shields.io/github/issues/akshitmalia/MERN-Stack-Minor-Projects?style=flat)
+![License](https://img.shields.io/github/license/akshitmalia/MERN-Stack-Minor-Projects?style=flat)
 
 🌐 Live Demo: https://quiz-app-akshit.netlify.app/
 
