@@ -11,7 +11,7 @@ async function start(){
         const result=await axios('https://opentdb.com/api.php?amount=5&category=9&difficulty=medium&type=multiple');
 
         const dataset=result.data.results;
-         console.log(dataset);
+         console.log(dataset); //ADDED INTENTIONALLY
         currentdataset=dataset;
         startquiz(dataset);
     }
