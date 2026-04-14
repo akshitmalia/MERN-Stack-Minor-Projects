@@ -129,7 +129,7 @@ function submit(){
         <p><strong>Total Questions: </strong>${currentdataset.length}</p>
         <p><strong>Correct Answers: </strong>${score/4}</p>
         <p><strong>Incorrect Answers: </strong>${currentdataset.length-(score/4)}</p>
-        <p><strong>Score: </strong>${score}/20</p>
+        <p><strong>Score: </strong>${score}/${currentdataset.length*4}</p>
         </div>
 
         <div class="mt-4 p-4 rounded-3 bg-light border border-dark ">
