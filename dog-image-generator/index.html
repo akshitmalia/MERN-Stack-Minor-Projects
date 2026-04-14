@@ -4,20 +4,27 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dog Ceo API</title>
-    <link rel="stylesheet" href="NOT_USINGstyle.css">
+    <link rel="stylesheet" href="style.css">
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.min.js" integrity="sha384-G/EV+4j2dNv+tEPo3++6LCgdCROaejBqfUeNjuKAiuXbjrxilcCdDz6ZAVfHWe1Y" crossorigin="anonymous"></script>
    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
  
-</head>
+</head> 
 <body class="bg-light text-center m-4">
     <div class="container-fluid border rounded-3 p-4 bg-danger mb-4 border-primary " >
     <h1 class="m-4 display-3 fw-bold text-light">Dog Image Generator</h1>
-    <p class="fs-5 text-muted">This will display the images of dog through each click via Dog CEO API</p>
-    <button class="btn btn-warning" onclick="showing()">Click</button>
+    <p class="fs-5 text-light">This will display the images of dog through each click via Dog CEO API and will also let you search images through breed</p>
+    <div class="d-flex mb-4">
+    <input id="breed" class="rounded-3 form-control me-2 " type="text" placeholder="Search by Breed"><button onclick="searchbreed()" class="btn btn-primary">Search</button>
     </div>
-    <div id="change">
+    <button class="btn btn-warning " onclick="showing()">Search Randomly</button>
     </div>
+
+    <div class=""  id="change"></div>
+
+    <div class="row gy-2 g-0 " id="display_breed">
+    </div>
+
 </body>
  <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
 
