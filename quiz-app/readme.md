@@ -1,5 +1,10 @@
 # 📊 Quiz App (API-Based)
 
+![Stars](https://img.shields.io/github/stars/akshitmalia/MERN-Stack-Minor-Projects?style=flat)
+![Forks](https://img.shields.io/github/forks/akshitmalia/MERN-Stack-Minor-Projects?style=flat)
+![Issues](https://img.shields.io/github/issues/akshitmalia/MERN-Stack-Minor-Projects?style=flat)
+![License](https://img.shields.io/github/license/akshitmalia/MERN-Stack-Minor-Projects?style=flat)
+
 🌐 Live Demo: https://quiz-app-akshit.netlify.app/
 
 An interactive quiz web application that fetches questions from an external API, allows users to attempt quizzes, and provides a detailed result summary with correct answers.
