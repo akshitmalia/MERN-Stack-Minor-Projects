@@ -27,7 +27,7 @@ A simple and interactive drawing application built using the HTML5 Canvas API. U
 
 ---
 
-##  Concepts Used
+## Concepts Used
 
 * Canvas API (`getContext`, `lineTo`, `stroke`)
 * Mouse Events (`mousedown`, `mousemove`, `mouseup`)
@@ -45,11 +45,11 @@ A simple and interactive drawing application built using the HTML5 Canvas API. U
 <img width="1919" height="972" alt="image" src="https://github.com/user-attachments/assets/27d5f172-77f1-4759-bf73-5c65667408a6" />
 <img width="1919" height="964" alt="image" src="https://github.com/user-attachments/assets/064f1b4f-f1e4-4597-8f02-065d9c0e6f64" />
 
-
 ---
 
 ## ⚙️ Installation & Setup
 
+```bash
 git clone https://github.com/akshitmalia/canvas-drawing-app.git
 cd canvas-drawing-app
 ```
