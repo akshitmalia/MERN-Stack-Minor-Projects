@@ -1,6 +1,6 @@
 # 🐶 Dog Image Generator
 
-🌐 Live Demo: https://ceo-dog-api.netlify.app/
+🌐 Live Demo: [https://ceo-dog-api.netlify.app/](https://dog-ceo-api-app.netlify.app/)
 
 A simple web application that fetches and displays random dog images using the Dog CEO API. Each click generates a new dog image dynamically.
 
